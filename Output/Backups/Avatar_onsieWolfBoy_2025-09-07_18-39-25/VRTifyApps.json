@@ -1,0 +1,276 @@
+{
+    "version": "1.0.0",
+    "timestamp": "2025-09-07 18:38:48",
+    "apps": [
+        {
+            "appName": "Battle.net",
+            "displayName": "Battle.net",
+            "iconPath": "F:\\Battle.net\\Battle.net.exe",
+            "executablePath": "F:\\Battle.net\\Battle.net.exe",
+            "oscParameter": "/avatar/parameters/VRTify_Battlenet",
+            "enabled": false,
+            "priority": 0,
+            "hudPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "tintColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "iconScale": 1.0,
+            "animationDuration": 0.30000001192092898,
+            "animationType": 3,
+            "notificationKeywords": [],
+            "useCustomIcon": false,
+            "customIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "appName": "Blender",
+            "displayName": "Blender",
+            "iconPath": "E:\\SteamLibrary\\steamapps\\common\\Blender\\blender.exe",
+            "executablePath": "E:\\SteamLibrary\\steamapps\\common\\Blender\\blender.exe",
+            "oscParameter": "/avatar/parameters/VRTify_Blender",
+            "enabled": false,
+            "priority": 1,
+            "hudPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "tintColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "iconScale": 1.0,
+            "animationDuration": 0.30000001192092898,
+            "animationType": 3,
+            "notificationKeywords": [],
+            "useCustomIcon": false,
+            "customIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "appName": "Discord",
+            "displayName": "Discord",
+            "iconPath": "C:\\Users\\fante\\AppData\\Local\\Discord\\app-1.0.9207\\Discord.exe",
+            "executablePath": "C:\\Users\\fante\\AppData\\Local\\Discord\\app-1.0.9207\\Discord.exe",
+            "oscParameter": "/avatar/parameters/VRTify_Discord",
+            "enabled": true,
+            "priority": 0,
+            "hudPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "tintColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "iconScale": 1.0,
+            "animationDuration": 0.30000001192092898,
+            "animationType": 3,
+            "notificationKeywords": [],
+            "useCustomIcon": false,
+            "customIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "appName": "Epic Games",
+            "displayName": "Epic Games Launcher",
+            "iconPath": "C:\\Program Files (x86)\\Epic Games\\Epic Online Services\\EpicOnlineServicesUserHelper.exe",
+            "executablePath": "C:\\Program Files (x86)\\Epic Games\\Epic Online Services\\EpicOnlineServicesUserHelper.exe",
+            "oscParameter": "/avatar/parameters/VRTify_EpicGames",
+            "enabled": false,
+            "priority": 3,
+            "hudPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "tintColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "iconScale": 1.0,
+            "animationDuration": 0.30000001192092898,
+            "animationType": 3,
+            "notificationKeywords": [],
+            "useCustomIcon": false,
+            "customIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "appName": "Edge",
+            "displayName": "Microsoft Edge",
+            "iconPath": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\Download\\{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062}\\140.0.3485.54\\MicrosoftEdge_X64_140.0.3485.54_139.0.3405.125.exe",
+            "executablePath": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\Download\\{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062}\\140.0.3485.54\\MicrosoftEdge_X64_140.0.3485.54_139.0.3405.125.exe",
+            "oscParameter": "/avatar/parameters/VRTify_Edge",
+            "enabled": false,
+            "priority": 4,
+            "hudPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "tintColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "iconScale": 1.0,
+            "animationDuration": 0.30000001192092898,
+            "animationType": 3,
+            "notificationKeywords": [],
+            "useCustomIcon": false,
+            "customIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "appName": "Teams",
+            "displayName": "Microsoft Teams",
+            "iconPath": "C:\\Program Files\\EA\\AC\\EAAntiCheat.GameService.exe",
+            "executablePath": "C:\\Program Files\\EA\\AC\\EAAntiCheat.GameService.exe",
+            "oscParameter": "/avatar/parameters/VRTify_Teams",
+            "enabled": false,
+            "priority": 5,
+            "hudPosition": {
+                "x": 0.5,
+                "y": 0.0
+            },
+            "tintColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "iconScale": 1.0,
+            "animationDuration": 0.30000001192092898,
+            "animationType": 3,
+            "notificationKeywords": [],
+            "useCustomIcon": false,
+            "customIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "appName": "Spotify",
+            "displayName": "Spotify",
+            "iconPath": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.271.421.0_x64__zpdnekdrzrea0\\XboxGameBarSpotify.exe",
+            "executablePath": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.271.421.0_x64__zpdnekdrzrea0\\XboxGameBarSpotify.exe",
+            "oscParameter": "/avatar/parameters/VRTify_Spotify",
+            "enabled": false,
+            "priority": 6,
+            "hudPosition": {
+                "x": 0.0,
+                "y": 0.5
+            },
+            "tintColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "iconScale": 1.0,
+            "animationDuration": 0.30000001192092898,
+            "animationType": 3,
+            "notificationKeywords": [],
+            "useCustomIcon": false,
+            "customIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "appName": "Steam",
+            "displayName": "Steam",
+            "iconPath": "C:\\Program Files\\EA\\AC\\EAAntiCheat.GameService.exe",
+            "executablePath": "C:\\Program Files\\EA\\AC\\EAAntiCheat.GameService.exe",
+            "oscParameter": "/avatar/parameters/VRTify_Steam",
+            "enabled": false,
+            "priority": 7,
+            "hudPosition": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "tintColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "iconScale": 1.0,
+            "animationDuration": 0.30000001192092898,
+            "animationType": 3,
+            "notificationKeywords": [],
+            "useCustomIcon": false,
+            "customIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "appName": "Unity",
+            "displayName": "Unity",
+            "iconPath": "C:\\Program Files\\Unity Hub\\Unity Hub.exe",
+            "executablePath": "C:\\Program Files\\Unity Hub\\Unity Hub.exe",
+            "oscParameter": "/avatar/parameters/VRTify_Unity",
+            "enabled": false,
+            "priority": 8,
+            "hudPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "tintColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "iconScale": 1.0,
+            "animationDuration": 0.30000001192092898,
+            "animationType": 3,
+            "notificationKeywords": [],
+            "useCustomIcon": false,
+            "customIcon": {
+                "instanceID": 0
+            }
+        },
+        {
+            "appName": "VSCode",
+            "displayName": "Visual Studio Code",
+            "iconPath": "C:\\Program Files (x86)\\Visual Studio\\Shared\\RemotedSimulator\\VisualStudio.Remoted.Simulator.exe",
+            "executablePath": "C:\\Program Files (x86)\\Visual Studio\\Shared\\RemotedSimulator\\VisualStudio.Remoted.Simulator.exe",
+            "oscParameter": "/avatar/parameters/VRTify_VSCode",
+            "enabled": false,
+            "priority": 9,
+            "hudPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "tintColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "iconScale": 1.0,
+            "animationDuration": 0.30000001192092898,
+            "animationType": 3,
+            "notificationKeywords": [],
+            "useCustomIcon": false,
+            "customIcon": {
+                "instanceID": 0
+            }
+        }
+    ]
+}

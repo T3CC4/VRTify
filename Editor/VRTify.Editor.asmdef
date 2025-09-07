@@ -1,0 +1,20 @@
+{
+    "name": "VRTify.Editor",
+    "rootNamespace": "VRTify.Editor",
+    "references": [
+        "VRTify.Runtime",
+        "VRC.SDK3A",
+        "VRC.SDK3A.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
